@@ -7,4 +7,7 @@
 body{
     font-family: 'Work Sans', sans-serif;
 } /*end global rulse*/
-.container{}
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+}
