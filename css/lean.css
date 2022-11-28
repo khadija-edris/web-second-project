@@ -48,5 +48,5 @@ body{
        position: relative;      /*posting method used for a link*/
 }
 .header .links .icons {
-  
+       width: 30px;       /*the width = 30px*/
 }
