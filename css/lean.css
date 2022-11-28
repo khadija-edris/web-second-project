@@ -6,7 +6,7 @@
 }
 body{
     font-family: 'Work Sans', sans-serif;
-} /*end global rulse*/
+} 
 .container{
     padding-left: 15px;
     padding-right: 15px;
@@ -31,3 +31,5 @@ body{
       width: 1170px;
     }
   }
+  /*End Global Rulse*/
+  /*start Header*/  
