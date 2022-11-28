@@ -61,3 +61,6 @@ body{
 .header .links .icons span:first-child{
     width: 100%;       /*the width is 100%*/
 }
+.header .links .icons span:nth-child(2){
+  
+}
