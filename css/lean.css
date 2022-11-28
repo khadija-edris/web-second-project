@@ -49,4 +49,5 @@ body{
 }
 .header .links .icons {
        width: 30px;       /*the width = 30px*/
+       display: flex;     /*Specifies how an element should be displayed*/
 }
