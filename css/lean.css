@@ -45,5 +45,5 @@ body{
       width: 60px;      /*the width of logo = 60px*/
 }
 .header .links {
-  
+       position: relative;      /*posting method used for a link*/
 }
