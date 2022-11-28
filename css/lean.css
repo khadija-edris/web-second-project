@@ -50,4 +50,5 @@ body{
 .header .links .icons {
        width: 30px;       /*the width = 30px*/
        display: flex;     /*Specifies how an element should be displayed*/
+       flex-wrap: wrap;   /*The flex-wrap property specifies whether the flexible items should wrap or not ,wrap 	Specifies that the flexible items will wrap if necessary */
 }
