@@ -56,4 +56,5 @@ body{
 .header .links .icons span {
   background-color: #333;    /*background coloring*/
   margin-bottom: 5px;   /*space outside bottom the border*/
+  height: 2px;    /*height = 2px*/
 }
