@@ -65,5 +65,5 @@ body{
     width: 60%;      /*width is 60%*/
 }
 .header .links .icons span:last-child{
-  
+    width: 100%;      /*width is 100%*/
 }
