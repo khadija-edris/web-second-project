@@ -58,3 +58,6 @@ body{
   margin-bottom: 5px;   /*space outside bottom the border*/
   height: 2px;    /*height = 2px*/
 }
+.header .links .icons span:first-child{
+  
+}
