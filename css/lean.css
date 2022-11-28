@@ -34,5 +34,5 @@ body{
   /*End Global Rulse*/
   /*start Header*/  
 .header {
-
+      padding: 20px;      /*space inside the border = 20px */
 }
