@@ -37,5 +37,5 @@ body{
       padding: 20px;      /*space inside the border = 20px */
 }
 .header .container {
-
+     display: flex;      /*Specifies how an element should be displayed*/
 }
