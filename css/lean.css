@@ -39,4 +39,5 @@ body{
 .header .container {
      display: flex;      /*Specifies how an element should be displayed*/
      justify-content: space-between;  /*positoin in center*/
+     align-items: center;      /*select the postion of text*/
 }
