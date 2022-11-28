@@ -42,5 +42,5 @@ body{
      align-items: center;      /*select the postion of text*/
 }
 .header .logo {
-  
+      width: 60px;      /*the width of logo = 60px*/
 }
