@@ -92,7 +92,7 @@ body{
      top: -20px; /*Aligned to the top by -20px*/ 
 }
 .header .links:hover ul{
-  
+    display: block;    /*Specifies the displayed of ul is block*/
 }
 .header .links ul li a {
    display: block;   /*specifies of displayed is block*/ 
