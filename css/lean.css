@@ -244,5 +244,6 @@ body{
   content: "";/*the content of image before*/
   background-color: var(--secondary-color);
   width: 100px;
+  height: calc(100% + 100px);
 }
 /*end services*/
