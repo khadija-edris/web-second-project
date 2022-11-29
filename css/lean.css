@@ -271,4 +271,7 @@ body{
   grid-gap: 30px; /*grid-gap: 30px*/
   margin-top: 80px; /*space outside the border*/
 }
+.portfolio .portfolio-content .card {
+  background-color: white;
+}
 /*end services*/
