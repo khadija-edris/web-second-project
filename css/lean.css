@@ -266,6 +266,6 @@ body{
   background-color: var(--section-background);
 }
 .portfolio .portfolio-content {
-
+  display: grid; /*Specifies the displayed of is grid*/
 }
 /*end services*/
