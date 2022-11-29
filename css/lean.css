@@ -41,6 +41,7 @@ body{
      text-align: center; /*position of text in center*/
      font-weight: 800;/*font-weight = 800*/
      letter-spacing: -3px; /*Distance between letters -3px*/
+     margin: 0;/*space outside the border*/
   }
     /*end componans*/
   /*End Global Rulse*/
