@@ -208,6 +208,7 @@ body{
 @media (max-width:767px) {
   .services .services-content .srv {
     flex-direction: column; /*flex-direction is column*/
+    text-align: center; /*position of words in center*/
   }
 }
 /*end services*/
