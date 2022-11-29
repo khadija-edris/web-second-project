@@ -141,5 +141,5 @@ body{
 /*end landing section*/
 /*start features */
 .features {
-  
+  display: grid;  /*Specifies the displayed is grid*/
 }
