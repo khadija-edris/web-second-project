@@ -1,4 +1,7 @@
 /* start global rulse */
+.root {
+  
+}
 *{
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -112,7 +115,7 @@ body{
 .landing {
        background-image: url(../images/landing.jpg);  /*backgroind for image*/
        background-size: cover; /*background size for image is cover*/
-       height: calc (100vh - 64px);  /*height of image*/
+       height: calc(100vh - 64px);  /*height of image*/
        position: relative;      /*posting method used for a links is relative*/
 }
 .landing .intro-text {
