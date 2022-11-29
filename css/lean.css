@@ -286,5 +286,6 @@ body{
 .portfolio .portfolio-content .card .info p {
   color: #777;
   line-height: 1.6;
+  margin-bottom: 0; /*space outside the border*/
 }
 /*end services*/
