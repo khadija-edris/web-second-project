@@ -280,4 +280,7 @@ body{
 .portfolio .portfolio-content .card .info {
   padding: 20px; /*space inside border*/
 }
+.portfolio .portfolio-content .card .info h3 {
+  margin: 0; /*space outside the border*/
+}
 /*end services*/
