@@ -98,3 +98,6 @@ body{
    color: #333;   /*the color of word*/
    transition: 0.3s; /*A slight effect period 3s*/
 }
+.header .links ul li a :hover {
+  
+}
