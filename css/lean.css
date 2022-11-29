@@ -196,6 +196,6 @@ body{
   padding-bottom: 60px; /*space in the bottom border is 60px*/
 }
 .services .services-content {
-  
+  display: grid; /*Specifies the displayed of is grid*/
 }
 /*end services*/
