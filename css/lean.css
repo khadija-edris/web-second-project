@@ -83,5 +83,5 @@ body{
    display: none;     /*Specifies the displayed of links is none*/
 }
 .header .links ul ::before{
-  
+     content: "";   /*the content of links ul before*/
 }
