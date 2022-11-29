@@ -303,7 +303,7 @@ body{
 @media (max-width: 991px) {
   .about .about-content {
     flex-direction: column; /*flex-direction is column*/
-
+    text-align: center; 
   }
 }
 /*end services*/
