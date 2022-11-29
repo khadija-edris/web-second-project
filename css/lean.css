@@ -159,4 +159,5 @@ body{
 }
 .features .feat h3 {
   font-weight: 800;  /*font-weight=800*/
+  margin: 30px 0;   /*space outside the border are 30px,0*/
 }
