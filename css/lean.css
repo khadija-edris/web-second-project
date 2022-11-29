@@ -1,5 +1,5 @@
 /* start global rulse */
-.root {
+:root {
   --main-color: #10cab7;   /*color for word*/
 }
 *{
@@ -123,7 +123,8 @@ body{
         left: 50%;     /*Aligned to the left by 50%*/
         top: 50%;     /*Aligned to the top by 50%*/
         text-align: center;  /*the position of text in center*/
-        transform: translate(-50% , 50%);
+        transform: translate(-50% , 50%); /*transfom is (-50%,50%)*/
+        width: 320pt; /*width is 320px*/
 }
 .landing .intro-text h1 {
      margin: 0;       /*space outside the border is 0*/
