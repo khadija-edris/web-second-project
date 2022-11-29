@@ -151,5 +151,5 @@ body{
   grid-gap: 20px; 
 }
 .features .feat {
-  
+  padding: 20px; /*space inside border is 20px*/
 }
