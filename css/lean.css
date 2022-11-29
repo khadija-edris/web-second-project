@@ -51,7 +51,7 @@ body{
   }
   @media (max-width: 767px) {
     .special-heading {
-      
+      font-size: 60px; /*font size = 60px*/
     }
   }
     /*end componans*/
