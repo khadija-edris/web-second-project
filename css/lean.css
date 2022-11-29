@@ -39,6 +39,7 @@ body{
      color: #ebeced; /*color word*/
      font-size: 100px; /*font size = 100px*/
      text-align: center; /*position of text in center*/
+     font-weight: 800;/*font-weight = 800*/
   }
     /*end componans*/
   /*End Global Rulse*/
