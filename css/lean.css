@@ -203,5 +203,6 @@ body{
 }
 .services .services-content .srv {
   display: flex; /*Specifies the displayed of is flex*/
+  margin-bottom: 40px; /*space outside bottom the border is 40px*/
 }
 /*end services*/
