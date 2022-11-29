@@ -110,6 +110,6 @@ body{
 /*end header*/
 /*start landing section*/
 .landing {
-
+       background-image: url(../images/landing.jpg);  /*backgroind for image*/
 }
 /*end landing section*/
