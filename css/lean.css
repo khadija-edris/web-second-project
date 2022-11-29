@@ -127,6 +127,7 @@ body{
 .landing .intro-text h1 {
      margin: 0;       /*space outside the border is 0*/
      font-weight: bold; /*font is bold*/
+     font-size: 50px;  /*font size is 50px*/
 }
 .landing .intro-text p {
 
