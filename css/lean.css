@@ -202,6 +202,6 @@ body{
   margin-top: 100px; /*space outside the border*/
 }
 .services .services-content .srv {
-  
+  display: flex; /*Specifies the displayed of is flex*/
 }
 /*end services*/
