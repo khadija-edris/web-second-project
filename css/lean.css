@@ -198,5 +198,6 @@ body{
 .services .services-content {
   display: grid; /*Specifies the displayed of is grid*/
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /*Filling the columns according to the area starts from 300 to 1fr */
+  grid-gap: 30px; /*grid-gap: 30px*/ 
 }
 /*end services*/
