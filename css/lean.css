@@ -92,5 +92,5 @@ body{
      top: -20px; /*Aligned to the top by -20px*/ 
 }
 .header .links ul li a {
-  
+   display: block;   /*specifies of displayed is block*/ 
 }
