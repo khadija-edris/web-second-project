@@ -85,4 +85,5 @@ body{
 .header .links ul ::before{
      content: "";   /*the content of links ul before*/
      border-width: 10px;   /*the border of width is 10px*/
+     border-style: solid; /*the border of style is solid*/ 
 }
