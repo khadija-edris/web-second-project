@@ -243,5 +243,6 @@ body{
 .services .services-content .image::before {
   content: "";/*the content of image before*/
   background-color: var(--secondary-color);
+  width: 100px;
 }
 /*end services*/
