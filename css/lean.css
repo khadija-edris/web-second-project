@@ -245,5 +245,6 @@ body{
   background-color: var(--secondary-color);
   width: 100px;
   height: calc(100% + 100px);
+  top: -50px; /*top = -50px*/
 }
 /*end services*/
