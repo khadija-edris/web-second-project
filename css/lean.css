@@ -238,5 +238,6 @@ body{
 }
 .services .services-content .image {
   text-align: center; /*position of words in center*/
+  position: relative; /*posting method used for a links is relative*/
 }
 /*end services*/
