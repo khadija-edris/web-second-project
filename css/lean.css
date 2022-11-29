@@ -1,6 +1,7 @@
 /* start global rulse */
 :root {
   --main-color: #10cab7;   /*color for word*/
+  --secondary-color: #2c4755; /*color*/
 }
 *{
     -webkit-box-sizing: border-box;
