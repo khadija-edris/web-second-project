@@ -48,7 +48,7 @@ body{
        position: relative;      /*posting method used for a link*/
 }
 .header .links:hover .icon span:nth-child(2){
-  
+       width: 100%;       /*width of span 2 is 100%*/
 }
 .header .links .icon {
        width: 30px;       /*the width = 30px*/
