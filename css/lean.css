@@ -1,6 +1,6 @@
 /* start global rulse */
 .root {
-  --main-color: #10cab7   /*color for word*/
+  --main-color: #10cab7;   /*color for word*/
 }
 *{
     -webkit-box-sizing: border-box;
@@ -126,6 +126,7 @@ body{
 }
 .landing .intro-text h1 {
      margin: 0;       /*space outside the border is 0*/
+     font-weight: bold; /*font is bold*/
 }
 .landing .intro-text p {
 
