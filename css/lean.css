@@ -43,6 +43,9 @@ body{
      letter-spacing: -3px; /*Distance between letters -3px*/
      margin: 0;/*space outside the border*/
   }
+  .special-heading + p {
+    
+  }
     /*end componans*/
   /*End Global Rulse*/
   /*start Header*/  
