@@ -38,6 +38,7 @@ body{
   .special-heading {
      color: #ebeced; /*color word*/
      font-size: 100px; /*font size = 100px*/
+     text-align: center; /*position of text in center*/
   }
     /*end componans*/
   /*End Global Rulse*/
