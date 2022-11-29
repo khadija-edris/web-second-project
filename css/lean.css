@@ -49,6 +49,9 @@ body{
     text-align: center; /*position of text in center*/
     color: #797979; /*color word*/
   }
+  @media (max-width: 767px) {
+    
+  }
     /*end componans*/
   /*End Global Rulse*/
   /*start Header*/  
