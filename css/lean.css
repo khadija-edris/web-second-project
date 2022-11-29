@@ -155,5 +155,5 @@ body{
   text-align: center; /*position of words in center*/
 }
 .features .feat i {
-  
+  color: var(--main-color); /*color word*/
 }
