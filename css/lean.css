@@ -164,4 +164,5 @@ body{
 .features .feat p {
   line-height: 1.8;  /*line-height = 1.8*/
   color: #777; /*color word*/
+  font-size: 17px; 
 }
