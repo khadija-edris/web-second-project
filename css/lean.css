@@ -84,6 +84,7 @@ body{
    min-width: 200px; /*min-width = 200px*/
    top: calc(100% + 15px);    /*calculate 100% + 15px in the top*/
    display: none;   /*Specifies the displayed of links is none*/
+   z-index: 1; /*use z-index to make links above of image*/
 }
 .header .links ul ::before{
      content: "";   /*the content of links ul before*/
