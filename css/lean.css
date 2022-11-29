@@ -152,4 +152,5 @@ body{
 }
 .features .feat {
   padding: 20px; /*space inside border is 20px*/
+  text-align: center; /*position of words in center*/
 }
