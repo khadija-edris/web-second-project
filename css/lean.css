@@ -319,5 +319,6 @@ about .about-content .image {
 .about .about-content .image::before {
   content: "";
   position: absolute;
+  background-color: #ebeced;
 }
 /*end services*/
