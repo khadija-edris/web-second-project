@@ -248,5 +248,6 @@ body{
   top: -50px; /*top = -50px*/
   position: absolute; /*posting method used for a landing is absolute*/
   right: 0;
+  z-index: -1; /*use z-index to make links above of image*/
 }
 /*end services*/
