@@ -265,4 +265,7 @@ body{
   padding-bottom: var(--section-padding); /*space inside bottom border*/
   background-color: var(--section-background);
 }
+.portfolio .portfolio-content {
+
+}
 /*end services*/
