@@ -80,7 +80,7 @@ body{
    right: 0;    /*effect to position right is 0*/
    min-width: 200px; /*min-width = 200px*/
    top: calc(100% + 15px);    /*calculate 100% + 15px in the top*/
-   display: none;    /*Specifies the displayed of links is none*/
+   /*display: none;*/    /*Specifies the displayed of links is none*/
 }
 .header .links ul ::before{
      content: "";   /*the content of links ul before*/
@@ -99,5 +99,5 @@ body{
    transition: 0.3s; /*A slight effect period 3s*/
 }
 .header .links ul li a :hover {
-  
+   padding-left: 25;   /*space left inside border is 25px*/
 }
