@@ -291,6 +291,6 @@ body{
 /* End Portfolio */
 /* Start About */
 .about {
-  
+  padding-top: var(--section-padding); /*space inside border*/
 }
 /*end services*/
