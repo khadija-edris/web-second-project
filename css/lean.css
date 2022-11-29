@@ -124,7 +124,7 @@ body{
         left: 50%;     /*Aligned to the left by 50%*/
         top: 50%;     /*Aligned to the top by 50%*/
         text-align: center;  /*the position of text in center*/
-        transform: translate(-50% , 50%); /*transfom is (-50%,50%)*/
+        transform: translate(-50% , -50%); /*transfom is (-50%,-50%) means the position is in center*/
         width: 320pt; /*width is 320px*/
         max-width: 100%; /*maximum width*/
 }
