@@ -141,5 +141,5 @@ body{
 /*end landing section*/
 /*start features */
 .features {
-  display: grid;  /*Specifies the displayed is grid*/
+  padding-top: 60px; /*spacein the top border is 60px*/
 }
