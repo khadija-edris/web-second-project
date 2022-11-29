@@ -1,6 +1,6 @@
 /* start global rulse */
 .root {
-  
+  --main-color: #10cab7   /*color for word*/
 }
 *{
     -webkit-box-sizing: border-box;
