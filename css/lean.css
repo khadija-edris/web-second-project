@@ -240,4 +240,7 @@ body{
   text-align: center; /*position of words in center*/
   position: relative; /*posting method used for a links is relative*/
 }
+.services .services-content .image::before {
+  content: "";/*the content of image before*/
+}
 /*end services*/
