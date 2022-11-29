@@ -283,4 +283,7 @@ body{
 .portfolio .portfolio-content .card .info h3 {
   margin: 0; /*space outside the border*/
 }
+.portfolio .portfolio-content .card .info p {
+
+}
 /*end services*/
