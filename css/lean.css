@@ -44,7 +44,7 @@ body{
      margin: 0;/*space outside the border*/
   }
   .special-heading + p {
-    
+    margin: -30px 0 0; /*space outside the border*/
   }
     /*end componans*/
   /*End Global Rulse*/
