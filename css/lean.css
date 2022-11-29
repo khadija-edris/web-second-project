@@ -223,5 +223,9 @@ body{
 }
 .services .services-content .srv i {
   color: var(--main-color); /*color word*/
+  flex-basis: 60px; 
+}
+.services .services-content .text {
+  
 }
 /*end services*/
