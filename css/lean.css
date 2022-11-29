@@ -82,3 +82,6 @@ body{
    top: calc(100% + 15px);    /*calculate 100% + 15px in the top*/
    display: none;     /*Specifies the displayed of links is none*/
 }
+.header .links ul ::before{
+  
+}
