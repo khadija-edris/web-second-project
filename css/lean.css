@@ -226,6 +226,6 @@ body{
   flex-basis: 60px; 
 }
 .services .services-content .text {
-  
+ flex: 1; /*the flexible length on flexible items*/ 
 }
 /*end services*/
