@@ -112,6 +112,15 @@ body{
 .landing {
        background-image: url(../images/landing.jpg);  /*backgroind for image*/
        background-size: cover; /*background size for image is cover*/
-       height: calc(100vh-64px);  /*height of image*/
+       height: calc (100vh - 64px);  /*height of image*/
+}
+.landing .intro-text {
+
+}
+.landing .intro-text h1 {
+
+}
+.landing .intro-text p {
+  
 }
 /*end landing section*/
