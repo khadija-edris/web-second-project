@@ -14,7 +14,7 @@
     box-sizing: border-box;
 }
 html{
-  
+  scroll-behavior: smooth;
 }
 body{
     font-family: "Work Sans", sans-serif;
@@ -43,6 +43,7 @@ body{
       width: 1170px;
     }
   }
+    /* End Global Rules */
     /*start componans*/
   .special-heading {
      color: #ebeced; /*color word*/
@@ -219,5 +220,8 @@ body{
     flex-direction: column; /*flex-direction is column*/
     text-align: center; /*position of words in center*/
   }
+}
+.services .services-content .srv i {
+  
 }
 /*end services*/
