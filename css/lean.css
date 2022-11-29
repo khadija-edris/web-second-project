@@ -292,5 +292,6 @@ body{
 /* Start About */
 .about {
   padding-top: var(--section-padding); /*space inside border*/
+  padding-bottom: calc(var(--section-padding) + 60px);
 }
 /*end services*/
