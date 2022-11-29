@@ -50,7 +50,9 @@ body{
     color: #797979; /*color word*/
   }
   @media (max-width: 767px) {
-    
+    .special-heading {
+      
+    }
   }
     /*end componans*/
   /*End Global Rulse*/
