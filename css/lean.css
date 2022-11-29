@@ -262,5 +262,6 @@ body{
 /* Start Portfolio */
 .portfolio {
   padding-top: var(--section-padding); /*space inside border*/
+  padding-bottom: var(--section-padding); /*space inside bottom border*/
 }
 /*end services*/
