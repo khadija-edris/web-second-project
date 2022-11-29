@@ -228,4 +228,7 @@ body{
 .services .services-content .text {
  flex: 1; /*the flexible length on flexible items*/ 
 }
+.services .services-content .text h3 {
+  
+}
 /*end services*/
