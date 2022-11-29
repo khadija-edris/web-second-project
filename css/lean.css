@@ -206,6 +206,8 @@ body{
   margin-bottom: 40px; /*space outside bottom the border is 40px*/
 }
 @media (max-width:767px) {
-  
+  .services .services-content .srv {
+    flex-direction: column; /*flex-direction is column*/
+  }
 }
 /*end services*/
