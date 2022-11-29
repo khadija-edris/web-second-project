@@ -111,5 +111,6 @@ body{
 /*start landing section*/
 .landing {
        background-image: url(../images/landing.jpg);  /*backgroind for image*/
+       background-size: cover; /*background size for image is cover*/
 }
 /*end landing section*/
