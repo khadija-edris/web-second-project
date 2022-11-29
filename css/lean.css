@@ -284,6 +284,6 @@ body{
   margin: 0; /*space outside the border*/
 }
 .portfolio .portfolio-content .card .info p {
-
+  color: #777;
 }
 /*end services*/
