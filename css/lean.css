@@ -295,6 +295,6 @@ body{
   padding-bottom: calc(var(--section-padding) + 60px);
 }
 .about .about-content {
-
+  margin-top: 100px; 
 }
 /*end services*/
