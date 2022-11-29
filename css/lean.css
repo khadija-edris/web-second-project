@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Work Sans', sans-serif;
+    font-family: "Work Sans", sans-serif;
 } 
 .container{
     padding-left: 15px;
@@ -47,23 +47,23 @@ body{
 .header .links {
        position: relative;      /*posting method used for a link*/
 }
-.header .links .icons {
+.header .links .icon {
        width: 30px;       /*the width = 30px*/
        display: flex;     /*Specifies how an element should be displayed*/
        flex-wrap: wrap;   /*The flex-wrap property specifies whether the flexible items should wrap or not ,wrap 	Specifies that the flexible items will wrap if necessary */
        justify-content: flex-end;  /*positoin align it to the right*/
 }
-.header .links .icons span {
+.header .links .icon span {
   background-color: #333;    /*background coloring*/
   margin-bottom: 5px;   /*space outside bottom the border*/
   height: 2px;    /*height = 2px*/
 }
-.header .links .icons span:first-child{
+.header .links .icon span:first-child{
     width: 100%;       /*the width is 100%*/
 }
-.header .links .icons span:nth-child(2){
+.header .links .icon span:nth-child(2){
     width: 60%;      /*width is 60%*/
 }
-.header .links .icons span:last-child{
+.header .links .icon span:last-child{
     width: 100%;      /*width is 100%*/
 }
