@@ -142,4 +142,5 @@ body{
 /*start features */
 .features {
   padding-top: 60px; /*spacein the top border is 60px*/
+  padding-bottom: 60px; /*spacein the bottom border is 60px*/
 }
