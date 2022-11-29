@@ -95,4 +95,5 @@ body{
    display: block;   /*specifies of displayed is block*/ 
    padding: 15px;   /*space inside border is 15px*/
    text-decoration: none; /*the style of text*/
+   color: #333;   /*the color of word*/
 }
