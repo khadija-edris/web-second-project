@@ -158,5 +158,5 @@ body{
   color: var(--main-color); /*color word*/
 }
 .features .feat h3 {
-  
+  font-weight: 800;  /*font-weight=800*/
 }
