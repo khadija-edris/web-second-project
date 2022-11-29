@@ -6,10 +6,15 @@
   --section-background: #f6f6f6; /*background color*/
   --main-duration: 0.5s; /*period*/
 }
+/* End Variables */
+/* Start Global Rules */
 *{
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+}
+html{
+  
 }
 body{
     font-family: "Work Sans", sans-serif;
