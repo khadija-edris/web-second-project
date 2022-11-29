@@ -231,4 +231,7 @@ body{
 .services .services-content .text h3 {
   margin: 0 0 20px; /*space outside the border*/
 }
+.services .services-content .srv .text p {
+  
+}
 /*end services*/
