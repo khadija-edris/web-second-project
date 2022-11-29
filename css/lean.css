@@ -73,4 +73,5 @@ body{
 }
 .header .links ul {
    list-style: none;   /*effects to list is none*/
+   margin: 0;         /*space outside the border is 0*/
 }
