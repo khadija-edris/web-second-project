@@ -192,6 +192,6 @@ body{
 }
 /*start services*/
 .services {
-  
+  padding-top: 60px; /*space in the top border is 60px*/
 }
 /*end services*/
