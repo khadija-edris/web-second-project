@@ -115,12 +115,12 @@ body{
        height: calc (100vh - 64px);  /*height of image*/
 }
 .landing .intro-text {
-
+        position: absolute;  /*posting method used for a landing is absolute*/
 }
 .landing .intro-text h1 {
 
 }
 .landing .intro-text p {
-  
+
 }
 /*end landing section*/
