@@ -232,6 +232,6 @@ body{
   margin: 0 0 20px; /*space outside the border*/
 }
 .services .services-content .srv .text p {
-  
+  color: #444; /*color word*/
 }
 /*end services*/
