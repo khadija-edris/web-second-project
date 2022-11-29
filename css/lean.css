@@ -63,6 +63,7 @@ body{
 }
 .header .links .icon span:nth-child(2){
     width: 60%;      /*width is 60%*/
+    transition: 0.3s;   /*A slight effect on the second Span*/
 }
 .header .links .icon span:last-child{
     width: 100%;      /*width is 100%*/
