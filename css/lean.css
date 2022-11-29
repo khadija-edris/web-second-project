@@ -263,5 +263,6 @@ body{
 .portfolio {
   padding-top: var(--section-padding); /*space inside border*/
   padding-bottom: var(--section-padding); /*space inside bottom border*/
+  background-color: var(--section-background);
 }
 /*end services*/
