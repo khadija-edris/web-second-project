@@ -321,5 +321,6 @@ about .about-content .image {
   position: absolute;
   background-color: #ebeced;
   width: 100px;
+  height: calc(100% + 80px);
 }
 /*end services*/
