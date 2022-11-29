@@ -294,4 +294,7 @@ body{
   padding-top: var(--section-padding); /*space inside border*/
   padding-bottom: calc(var(--section-padding) + 60px);
 }
+.about .about-content {
+
+}
 /*end services*/
