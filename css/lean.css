@@ -131,6 +131,7 @@ body{
      color: var(--main-color); /*color word*/
 }
 .landing .intro-text p {
+  font-size: 19px;  /*font size is 19px*/
 
 }
 /*end landing section*/
