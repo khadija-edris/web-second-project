@@ -261,6 +261,6 @@ body{
 /* Start Services  */
 /* Start Portfolio */
 .portfolio {
-
+  padding-top: var(--section-padding); /*space inside border*/
 }
 /*end services*/
