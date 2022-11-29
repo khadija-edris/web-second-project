@@ -250,4 +250,7 @@ body{
   right: 0;
   z-index: -1; /*use z-index to make links above of image*/
 }
+.services .services-content .image img {
+  width: 260px;
+}
 /*end services*/
