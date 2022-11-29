@@ -47,6 +47,9 @@ body{
 .header .links {
        position: relative;      /*posting method used for a link*/
 }
+.header .links:hover .icon span:nth-child(2){
+  
+}
 .header .links .icon {
        width: 30px;       /*the width = 30px*/
        display: flex;     /*Specifies how an element should be displayed*/
