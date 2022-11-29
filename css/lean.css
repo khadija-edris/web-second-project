@@ -146,5 +146,5 @@ body{
   background-color: #f6f6f6; /*background coloring*/
 }
 .features .container{
-  
+  display: grid; /*Specifies the displayed of is grid*/
 }
