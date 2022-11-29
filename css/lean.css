@@ -297,5 +297,6 @@ body{
 .about .about-content {
   margin-top: 100px;
   display: flex; /*Specifies the displayed of is flex*/
+  flex-wrap: wrap;
 }
 /*end services*/
