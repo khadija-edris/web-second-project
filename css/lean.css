@@ -117,6 +117,7 @@ body{
 .landing .intro-text {
         position: absolute;  /*posting method used for a landing is absolute*/
         left: 50%;     /*Aligned to the left by 50%*/
+        top: 50%;     /*Aligned to the top by 50%*/
 }
 .landing .intro-text h1 {
 
