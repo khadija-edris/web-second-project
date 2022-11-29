@@ -78,4 +78,5 @@ body{
    background-color: #f6f6f6;   /*background coloring is wight*/
    position: absolute;    /*posting method used for a links is absolute*/
    right: 0;    /*effect to position right is 0*/
+   min-width: 200px; /*min-width = 200px*/
 }
