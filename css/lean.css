@@ -306,4 +306,7 @@ body{
     text-align: center; 
   }
 }
+about .about-content .image {
+  position: relative; 
+}
 /*end services*/
