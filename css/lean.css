@@ -75,4 +75,5 @@ body{
    list-style: none;   /*effects to list is none*/
    margin: 0;         /*space outside the border is 0*/
    padding: 0;       /*space inside border is 0*/
+   background-color: #f6f6f6;   /*background coloring is wight*/
 }
