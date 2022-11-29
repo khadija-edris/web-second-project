@@ -76,4 +76,5 @@ body{
    margin: 0;         /*space outside the border is 0*/
    padding: 0;       /*space inside border is 0*/
    background-color: #f6f6f6;   /*background coloring is wight*/
+   position: absolute;    /*posting method used for a links is absolute*/
 }
