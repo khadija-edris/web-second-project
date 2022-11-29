@@ -4,6 +4,7 @@
   --secondary-color: #2c4755; /*color*/
   --section-padding: 60px; /*space inside the border*/
   --section-background: #f6f6f6; /*background color*/
+  --main-duration: 0.5s; /*period*/
 }
 *{
     -webkit-box-sizing: border-box;
